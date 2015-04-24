@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Test
+title: Second test
 ---
 
 This is a test file
